@@ -1,0 +1,39 @@
+
+/* Style for the heading */
+h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+/* Style for the subheading */
+h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+/* Style for the paragraph text */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.rightSide {
+  margin-left: 20px;
+  border-style: solid;
+  border-color: #3e8e41;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.leftSide {
+  border-style: solid;
+  border-color: #3e8e41;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.image {
+  border-radius:2%;
+  overflow:hidden;
+}

@@ -1,0 +1,26 @@
+
+<div class="container" style="display:flex">
+  <div class="image">
+    <img src="assets/address.png" height="200" width="200">
+  </div>
+
+  <div style="margin: auto">
+    <p>Where will these panels be installed?</p>
+    <input style="margin-bottom: 25px;: " type="text" id="addr" placeholder="Enter address" name="address"/>
+    <p>What size is this panel?</p>
+    <input style="margin-bottom: 5px;: " type="text" id="size" placeholder="Enter capacity in KW" name="capacity"/>
+    <button class="button" (click)="handleSubmit()">Submit</button>
+  </div>
+</div>
+
+<div class="container" style="display:flex">
+  <div class="image">
+    <img src="assets/Savings.png" height="200" width="200">
+  </div>
+
+  <div style="margin: auto">
+    <p>Find out how much you will save!</p>
+    <label>Yearly amount saved: </label>
+    <label style="color:green">{{saved}}</label>  </div>
+</div>
+

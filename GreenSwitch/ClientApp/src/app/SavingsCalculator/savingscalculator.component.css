@@ -1,0 +1,11 @@
+.image {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.button {
+  margin-left: 5px;
+  border-radius: 5px;
+  border-width: 0;
+  color: #333333;
+}
