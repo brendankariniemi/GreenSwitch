@@ -1,10 +1,6 @@
-# OsiHackathon2023
+# Green Switch
 
-Green Switch
+The purpose of this project is to encourage the adoption of renewable energies, particularly solar power. It achieves this by showcasing the advantages of solar energy and estimating the potential cost savings achievable through the installation of solar panels in your specific location.
 
-This project was created during the OSI 2023 hackthon, and uses angular and public weather API's
-to calculate the best energy resource to use for a specific location, and the amount of money that
-is expected to be saved.
 
-<img width="1501" alt="Screenshot 2023-04-22 at 3 57 36 PM" src="https://user-images.githubusercontent.com/104330037/233806386-e3010209-9bc3-4618-8def-a7db1aa6d965.png">
-
+<img width="1512" alt="Screenshot 2023-06-28 at 9 16 01 PM" src="https://github.com/brendankariniemi/GreenSwitch/assets/138073658/6c06109c-96c8-4d7e-84de-9723920af691">
